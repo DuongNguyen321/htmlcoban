@@ -5,6 +5,9 @@
   font-family: "Open Sans", sans-serif;
   transition: all linear 0.3s;
 }
+html{
+  font-size: 100%;
+}
 body.dark {
   background-color: #333;
 }
@@ -286,11 +289,6 @@ body.dark .nav-outer {
   left: 10px;
   top: 10px;
 }
-.remember {
-    display: flex;
-    align-items: center;
-}
-
 .checkbox-ghi-nho {
   display: inline-block;
   height: 30px;

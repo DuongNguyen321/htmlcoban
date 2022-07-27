@@ -7,6 +7,7 @@ let burger = document.querySelector('.burger')
 let close_burger = document.querySelector('.close-burger-nav')
 let sun = document.querySelector(".sun")
 let Body = document.body
+
 person.addEventListener('click', function() {
     form_login.classList.add('marginRight-0')
 })
